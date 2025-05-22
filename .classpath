@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Asg1TicTacToe/src"/>
+	<classpathentry kind="src" path="Library/src"/>
+	<classpathentry kind="src" path="Restaurant/src"/>
+	<classpathentry kind="output" path="Asg1TicTacToe/bin"/>
+</classpath>
